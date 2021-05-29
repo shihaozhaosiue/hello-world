@@ -1,0 +1,7 @@
+第一节课课堂讨论 （替换部分）
+可以用：
+import numpy as np
+import matplotlib.pyplot as plt
+用的是：
+from matplotlib.pyplot import plt --->(X)
+from numpy import np --->(X)
